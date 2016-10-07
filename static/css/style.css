@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	border:3px solid black;
+	padding:20px 30px 30px 20px;
+	width:400px;
+	height:246px;
+	margin:0 auto;
+	box-sizing: border-box;
+}
+.wrapper p, .wrapper h1{
+	padding-top: 10px;
+}
+form span{
+	display:block;
+	margin: 10px;
+}
+.right{
+	margin-left:90%;
+}
+button{
+	padding:2px 5px;
+	border-radius: 5px;
+	border: 1px solid #DDDDDD;
+	background-color: white;
+	color:black;
+}
+
+.results span{
+	font-weight:bold;
+}
